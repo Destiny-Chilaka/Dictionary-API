@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+
+
+input:focus {
+    outline: none;
+}
+
+input {
+
+    border-bottom: 2px solid rgba(124, 58, 237, 0.603);
+}
+
+.sentence {
+    border-left: 2px solid rgba(124, 58, 237, 0.603);
+}
